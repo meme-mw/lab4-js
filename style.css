@@ -1,0 +1,16 @@
+html,body{
+    width:100vw;
+    min-height:100vh;
+    margin:0;
+    padding:0;
+    background-color:#F8EDE3;
+}
+
+img{
+    position: absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   
+}
